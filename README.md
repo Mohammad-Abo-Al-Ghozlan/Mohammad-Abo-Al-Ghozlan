@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-abo-al-ghozlan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://mohammad-abo-al-ghozlan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome"></a>
   <a href="mailto:abo.al.ghozlan.mohammad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -104,7 +104,7 @@ I’m a passionate full stack developer with hands-on experience in **freelance*
 📧 [abo.al.ghozlan.mohammad@gmail.com](mailto:abo.al.ghozlan.mohammad@gmail.com)  
 📞 +961 81985614  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-abo-al-ghozlan/)  
-🌐 [Visit my portfolio](https://your-portfolio-url.com)
+🌐 [Visit my portfolio](https://mohammad-abo-al-ghozlan.github.io/portfolio/)
 
 ---
 
