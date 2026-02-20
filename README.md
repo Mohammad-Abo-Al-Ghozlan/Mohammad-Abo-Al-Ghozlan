@@ -105,12 +105,10 @@ Highly motivated and competitive Full Stack Web & Mobile Developer with hands-on
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Abo-Al-Ghozlan&show_icons=true&theme=radical&count_private=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Abo-Al-Ghozlan&theme=radical" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Abo-Al-Ghozlan&layout=compact&theme=radical">
+  <a href="https://github.com/Mohammad-Abo-Al-Ghozlan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Abo-Al-Ghozlan&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Abo-Al-Ghozlan&layout=compact&langs_count=8&theme=radical"/>
+  </a>
 </p>
 
 ---
