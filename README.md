@@ -104,11 +104,7 @@ Highly motivated and competitive Full Stack Web & Mobile Developer with hands-on
 
 ## 📈 GitHub Stats
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Abo-Al-Ghozlan&show_icons=true&theme=radical&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Abo-Al-Ghozlan&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Abo-Al-Ghozlan&layout=compact&theme=radical)
 
 ---
 
