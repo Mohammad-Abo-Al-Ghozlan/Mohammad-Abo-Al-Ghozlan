@@ -53,40 +53,39 @@ Highly motivated and competitive Full Stack Web & Mobile Developer with hands-on
 
 ## 💼 Experience
 
-### IT & Software Developer (Contract) | SamAlQudsTV  
-*June 2025 – Jan 2026 | Remote / Lebanon*  
-- Administered SQL databases, Archive/Intranet, and core network infrastructure.  
-- Managed IT projects from conception to completion.  
-- Provided technical support & training to improve user efficiency.  
-- Developed internal automation tools for operational efficiency.  
+### Full Stack Developer / Team Lead | AFKAR ALBARMAJAH FOR IT  
+*Jul 2025 – Present | Saudi Arabia (Remote)*  
+- Lead a team of developers delivering full-stack web systems for Saudi clients, including **atcc-ksa.com** for AFKAR AL-TATWEER.  
+- Develop and maintain applications using **Laravel**, **React**, and **MySQL**.  
+- Handle task planning, code reviews, and deployments to ensure timely delivery of business-critical systems.
 
-### Software & Hardware Maintenance Technician | CLICKONCE  
-*October 2024 – Present | Lebanon*  
-- Software troubleshooting & maintenance for enterprise solutions.  
-- Hardware repairs, diagnostics, and installations.  
-- Ensured seamless IT support for clients.  
+### Full-Stack Developer (Co-Founder) | IMAA  
+*2023 – Present | Lebanon*  
+- Developed and deployed custom **POS systems** for multiple clients and sold an **Invoice Management System** to a UAE company, supporting real sales and financial operations.  
+- Built and maintained company websites including **swisslifelb.com** using **PHP**, **Laravel**, and **MySQL**.  
+- Designed relational databases and implemented authentication and role-based access control.  
+- Developed **REST APIs** and integrated front-end interfaces.  
+- Managed hosting, deployment, maintenance, and client technical support.  
+- Gathered requirements and translated business workflows into software solutions.
 
-### Full-Stack Developer | IMAA (Owner)  
-*August 2024 – Present | Lebanon*  
-- Developed **swisslifelb.com**, a pharmaceutical corporate website.  
-- Built **atcc-ksa.com**, a responsive, multilingual corporate website for a Saudi construction company.  
-- Created ERP & accounting systems and a school management system.  
-- Built an Invoice Management System for UAE clients.  
-- Led cross-functional teams delivering responsive web solutions.  
+### App Administrator & IT Project Coordinator (Contract) | Media Vision  
+*Jun 2025 – Jan 2026 | Lebanon / Remote*  
+- Managed **SQL databases** including backup, restore, and integrity monitoring.  
+- Maintained archive platform, intranet, **Active Directory**, and network services.  
+- Provided technical support and user training across departments.  
+- Documented workflows and coordinated IT tasks to improve operational efficiency.
+
+### Software Technician | CLICKONCE  
+*Oct 2024 – Jan 2026 | Lebanon*  
+- Performed software troubleshooting and maintenance for enterprise solutions.  
+- Provided client IT support, hardware diagnostics, and installations.  
+- Ensured seamless technical operations for clients.
 
 ### Web Development Intern | World of Business  
-*May 2024 – July 2024 | Lebanon, Saida*  
-- Worked with ReactJS (Frontend) & Laravel (Backend).  
+*May 2024 – Jul 2024 | Lebanon, Saida*  
+- Worked with **React.js** (Frontend) and **Laravel** (Backend) on the Genix project.  
 - Managed e-commerce product and user account systems.  
-- Developed WordPress sites.  
-
-### Freelance Project | CallYourBeauty  
-*May 2024 | Online*  
-- Built internal product management system using HTML, CSS, JavaScript.  
-
-### Cameraman & Director Assistant | PalTV  
-*July 2022 – Jan 2023 | Beirut*  
-- Hands-on experience operating cameras & assisting directors.
+- Developed WordPress sites and gained hands-on experience in full-stack development.
 
 ---
 
