@@ -53,14 +53,8 @@ Highly motivated and competitive Full Stack Web & Mobile Developer with hands-on
 
 ## 💼 Experience
 
-### Full Stack Developer / Team Lead | AFKAR ALBARMAJAH FOR IT  
-*Jul 2025 – Present | Saudi Arabia (Remote)*  
-- Lead a team of developers delivering full-stack web systems for Saudi clients, including **atcc-ksa.com** for AFKAR AL-TATWEER.  
-- Develop and maintain applications using **Laravel**, **React**, and **MySQL**.  
-- Handle task planning, code reviews, and deployments to ensure timely delivery of business-critical systems.
-
 ### Full-Stack Developer (Co-Founder) | IMAA  
-*2023 – Present | Lebanon*  
+*Jun 2023 – Jan 2026 | Lebanon*  
 - Developed and deployed custom **POS systems** for multiple clients and sold an **Invoice Management System** to a UAE company, supporting real sales and financial operations.  
 - Built and maintained company websites including **swisslifelb.com** using **PHP**, **Laravel**, and **MySQL**.  
 - Designed relational databases and implemented authentication and role-based access control.  
@@ -68,12 +62,12 @@ Highly motivated and competitive Full Stack Web & Mobile Developer with hands-on
 - Managed hosting, deployment, maintenance, and client technical support.  
 - Gathered requirements and translated business workflows into software solutions.
 
-### App Administrator & IT Project Coordinator (Contract) | Media Vision  
-*Jun 2025 – Jan 2026 | Lebanon / Remote*  
-- Managed **SQL databases** including backup, restore, and integrity monitoring.  
-- Maintained archive platform, intranet, **Active Directory**, and network services.  
-- Provided technical support and user training across departments.  
-- Documented workflows and coordinated IT tasks to improve operational efficiency.
+### Full Stack Developer / Team Lead | AFKAR ALBARMAJAH FOR IT  
+*Jul 2025 – Mar 2026 | Saudi Arabia (Remote)*  
+- Developed and deployed custom POS and Invoice Management systems for clients across Lebanon, including a live system for a UAE SNS company.
+- Built and maintained company websites, including swisslifelb.com, using Laravel, PHP, and MySQL. 
+- Designed relational databases, implemented authentication, and role-based access control. 
+- Managed hosting, deployments, and client technical support. 
 
 ### Software Technician | CLICKONCE  
 *Oct 2024 – Jan 2026 | Lebanon*  
