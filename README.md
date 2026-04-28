@@ -63,11 +63,11 @@ Highly motivated and competitive Full Stack Web & Mobile Developer with hands-on
 - Gathered requirements and translated business workflows into software solutions.
 
 ### Full Stack Developer / Team Lead | AFKAR ALBARMAJAH FOR IT  
-*Jul 2025 – Mar 2026 | Saudi Arabia (Remote)*  
-- Developed and deployed custom POS and Invoice Management systems for clients across Lebanon, including a live system for a UAE SNS company.
-- Built and maintained company websites, including swisslifelb.com, using Laravel, PHP, and MySQL. 
-- Designed relational databases, implemented authentication, and role-based access control. 
-- Managed hosting, deployments, and client technical support. 
+*Jul 2025 – Mar 2026 | Saudi Arabia (Remote)*
+- Led developers building full-stack systems, including atcc-ksa.com for AFKAR AL-TATWEER. 
+- Designed, developed, and maintained scalable applications with Laravel, React, and MySQL. 
+- Managed project planning, code reviews, task distribution, and production deployments. 
+- Administered enterprise systems including SQL databases, internal platforms, and Active Directory. 
 
 ### Software Technician | CLICKONCE  
 *Oct 2024 – Jan 2026 | Lebanon*  
