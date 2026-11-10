@@ -1,146 +1,88 @@
-<h1 align="center">Hi, I'm Mohammad Abo Al Ghozlan 👋</h1>
+<h1 align="center">Mohammad Abo Al Ghozlan</h1>
+<p align="center"><strong>Backend & Machine Learning Engineer | Full-Stack Developer | Team Lead</strong></p>
+<p align="center">Based in Lebanon · Building production software, AI-powered platforms, and scalable business systems</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-abo-al-ghozlan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://mhmd-ghozlan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome"></a>
-  <a href="mailto:abo.al.ghozlan.mohammad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://mohammad-ghozlan.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/mohammad-abo-al-ghozlan/">LinkedIn</a> ·
+  <a href="mailto:abo.al.ghozlan.mohammad@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 Full Stack Web & Mobile Developer
+## About
 
-Backend-focused Full-Stack Developer and Team Lead delivering production systems across Lebanon, Saudi Arabia, and the UAE. Strong 
-in Laravel, React, Node.js, Python, REST APIs, and MySQL, with hands-on experience building AI-integrated products: LLM-powered 
-platforms, AI agents, ML inference pipelines, and real-time speech-to-sign translation. Comfortable leading developers, owning 
-architecture, and shipping business-critical SaaS, ERP, and POS applications, using modern AI-assisted development tools to accelerate 
-delivery without sacrificing quality.  
+Backend-focused Full-Stack Developer and Team Lead with experience delivering production systems across **Lebanon, Saudi Arabia, and the UAE**. I build backend services, REST APIs, and business-critical **SaaS, ERP, and POS applications**, with hands-on experience in **LLM integrations, AI agents, ML inference pipelines, and real-time speech-to-sign translation**.
 
-🥉 Proven success in competitive environments: 3rd Place in the South Lebanon Kyokushinkai Karate Tournament & Lebanese Muay Thai Championship.
+My core stack includes **Laravel, React, Node.js, Python, and MySQL**. I work across system architecture, implementation, code review, deployment, and developer coordination, using AI-assisted development tools while maintaining a focus on quality and maintainability.
 
----
+## Professional Experience
 
-## ⚙️ Tech Stack
+### Backend & Machine Learning Engineer — Deafference
+**Jul 2026 – Present | Speech-to-Sign Platform**
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react) 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap) 
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css)
+- Architected a real-time speech-to-sign pipeline spanning microphone capture, speech recognition, text normalization, confidence-scored phrase matching, animation queues, and Three.js 3D avatar rendering with quaternion animation tracks.
+- Designed an ML roadmap for semantic sign translation, including temporal modeling, pose/hand/face articulators, gloss-level supervision, and latency/compute constraints, separate from the deterministic MVP.
+- Built modular components so generative animation models can replace the lookup engine without rewriting capture, matching, or rendering layers.
 
-**Backend:**  
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php) 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+### Full-Stack Developer / Team Lead — AFKAR ALBARMAJAH
+**Jan 2025 – Mar 2026 | Saudi Arabia (Remote)**
 
-**Mobile:**  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter) 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
+- Led developers building full-stack systems, including [ATCC](https://atcc-ksa.com/) for AFKAR AL-TATWEER.
+- Designed and maintained applications with Laravel, React, and MySQL.
+- Coordinated project planning, code reviews, task distribution, and production deployments.
+- Administered SQL databases, internal platforms, and Active Directory.
 
-**Database:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) 
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+### Full-Stack Developer / Co-Founder — IMAA
+**Jun 2023 – Jan 2026 | Lebanon**
 
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman) 
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
-![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-FF6600?style=flat-square&logo=cisco)
+- Developed and deployed custom POS and invoice management systems for clients in Lebanon and the UAE, including a live solution for a UAE SNS company.
+- Built and maintained company websites, including [SwissLife LB](https://swisslifelb.com/), using Laravel, PHP, and MySQL.
+- Designed relational databases, authentication, RBAC, and REST APIs; handled hosting, deployment, and client support.
 
----
+### Software Technician — CLICKONCE
+**Oct 2024 – Jan 2026 | Lebanon**
 
-## 💼 Experience
+- Performed software troubleshooting, maintenance, and client IT support.
 
-### Full-Stack Developer (Co-Founder) | IMAA  
-*Jun 2023 – Jan 2026 | Lebanon*  
-- Developed and deployed custom **POS systems** for multiple clients and sold an **Invoice Management System** to a UAE company, supporting real sales and financial operations.  
-- Built and maintained company websites including **swisslifelb.com** using **PHP**, **Laravel**, and **MySQL**.  
-- Designed relational databases and implemented authentication and role-based access control.  
-- Developed **REST APIs** and integrated front-end interfaces.  
-- Managed hosting, deployment, maintenance, and client technical support.  
-- Gathered requirements and translated business workflows into software solutions.
+## Selected Projects
 
-### Full Stack Developer / Team Lead | AFKAR ALBARMAJAH FOR IT  
-*Jul 2025 – Mar 2026 | Saudi Arabia (Remote)*
-- Led developers building full-stack systems, including atcc-ksa.com for AFKAR AL-TATWEER. 
-- Designed, developed, and maintained scalable applications with Laravel, React, and MySQL. 
-- Managed project planning, code reviews, task distribution, and production deployments. 
-- Administered enterprise systems including SQL databases, internal platforms, and Active Directory. 
+| Project | Scope | Technologies |
+| --- | --- | --- |
+| **NexusMG — AI-Powered Developer Readiness Platform** | Multi-source developer evaluation via CV, GitHub, LinkedIn, and interviews; AI-powered feedback, role-based dashboards, and a unified readiness score | React, FastAPI, LLMs |
+| **ERP & Accounting System — IMAA** | Sales, purchases, financial reporting, RBAC, and modular accounting workflows | Laravel, MySQL |
+| **POS System for Retail Clients — IMAA** | Live sales, product and transaction management, reporting, and optimized REST APIs | Backend APIs, relational databases |
 
-### Software Technician | CLICKONCE  
-*Oct 2024 – Jan 2026 | Lebanon*  
-- Performed software troubleshooting and maintenance for enterprise solutions.  
-- Provided client IT support, hardware diagnostics, and installations.  
-- Ensured seamless technical operations for clients.
+## Technical Skills
 
-### Web Development Intern | World of Business  
-*May 2024 – Jul 2024 | Lebanon, Saida*  
-- Worked with **React.js** (Frontend) and **Laravel** (Backend) on the Genix project.  
-- Managed e-commerce product and user account systems.  
-- Developed WordPress sites and gained hands-on experience in full-stack development.
+| Area | Technologies & Tools |
+| --- | --- |
+| **Backend** | PHP, Laravel, Node.js, Express, NestJS, Python, FastAPI, Django, Flask, REST APIs, JWT, Laravel Sanctum, RBAC |
+| **AI / ML** | OpenAI & Anthropic API integration, LLMs, AI agents & orchestration, prompt engineering, ML inference pipelines, speech-to-text, model-serving APIs, dataset preprocessing |
+| **Frontend** | React, Next.js, Angular, Vue, TypeScript, Tailwind CSS, Bootstrap, Three.js |
+| **Databases & DevOps** | MySQL, MariaDB, MongoDB, Supabase, Docker, Git/GitHub, Nginx, AWS EC2/S3, Postman |
+| **AI-Assisted Development** | Claude Code, GitHub Copilot, Cursor |
+
+## Education & Training
+
+- **B.S. in Computer Science** — Lebanese International University · Aug 2020 – Feb 2024
+- **Full-Stack Web Development** — The Digital Hub (UNRWA) · Jan 2026 – May 2026
+
+## Certifications
+
+Google IT Support · JavaScript Essentials (Cisco) · CCNA 1 & 2 · Cybersecurity (Cisco) · Linux Essentials
+
+## Languages
+
+Arabic (Native) · English (Fluent) · Spanish (Beginner)
+
+## Contact
+
+- **Email:** [abo.al.ghozlan.mohammad@gmail.com](mailto:abo.al.ghozlan.mohammad@gmail.com)
+- **Portfolio:** [mohammad-ghozlan.vercel.app](https://mohammad-ghozlan.vercel.app/)
+- **LinkedIn:** [mohammad-abo-al-ghozlan](https://www.linkedin.com/in/mohammad-abo-al-ghozlan/)
+- **Location:** Lebanon
 
 ---
 
-## 🚀 Projects
-
-- **SwissLifeLB** – ERP + Accounting system | Laravel, React.js, MySQL  
-- **School Management System** – Student records & fees | Laravel, Bootstrap, MySQL  
-- **Invoice Management (UAE)** – Invoice & user/admin modules | PHP, JavaScript, Bootstrap  
-- **Garage Management System** – Workflow automation | Angular, PHP, MySQL  
-- **G-Blog** – Full-stack blogging platform | PHP, MySQL, Bootstrap  
-- **React & Laravel API Integration** – Connecting frontend & backend  
-- **E-Commerce Platform** – Full shopping platform | Laravel  
-- **Internal Product Management** – Inventory tracking | HTML, CSS, JavaScript  
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Abo-Al-Ghozlan&theme=radical)
-
----
-
-## 🏆 Achievements
-
-- 🥉 3rd Place, South Lebanon Kyokushinkai Karate Tournament  
-- 🥉 3rd Place, Lebanese Muay Thai Championship
-
----
-
-## 🎓 Education & Certifications
-
-**Bachelor of Science in Computer Science** – Lebanese International University, 2024  
-
-**Web Development & Programming:** HTML5 & CSS3 (Pirple), JavaScript Essentials (CISCO), JavaScript Algorithms (freeCodeCamp)  
-**Networking & Cybersecurity:** CCNA1 & CCNA2, Introduction to Cybersecurity (CISCO), Google IT Support Professional (Coursera)  
-**Linux & System Administration:** Linux Essentials (NDG), Scientific Computing with Python (freeCodeCamp)  
-**Mobile Development:** MITAppIntender Certification (Geil)  
-
----
-
-## 🧠 Skills
-
-**Programming:** HTML, CSS, PHP, XML, Bootstrap, Tailwind, JavaScript, TypeScript, Dart, Java, C, C#, C++, Prolog, Python  
-**Frameworks:** ReactJS, Laravel, Angular, .NET, Flutter, WordPress  
-**Database:** MySQL, Firebase  
-**Tools:** Git, Docker, Postman, Packet Tracer, Microsoft, Adobe  
-**Soft Skills:** Problem-solving, teamwork, adaptability, project management, competitive, adaptability  
-
----
-
-## 📬 Let's Connect
-
-📧 [abo.al.ghozlan.mohammad@gmail.com](mailto:abo.al.ghozlan.mohammad@gmail.com)  
-📞 +961 81985614  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-abo-al-ghozlan/)  
-🌐 [Portfolio](https://mhmd-ghozlan.vercel.app/)
-
----
-
-> _"Continuous learning is the minimum requirement for success in any field."_ — **Brian Tracy**
+<p align="center"><em>Engineering reliable software and turning complex workflows into deployable products.</em></p>
