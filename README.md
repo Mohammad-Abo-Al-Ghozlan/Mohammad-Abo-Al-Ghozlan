@@ -1,12 +1,22 @@
-<h1 align="center">Mohammad Abo Al Ghozlan</h1>
-<p align="center"><strong>Backend & Machine Learning Engineer | Full-Stack Developer | Team Lead</strong></p>
-<p align="center">Based in Lebanon · Building production software, AI-powered platforms, and scalable business systems</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://mohammad-ghozlan.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/mohammad-abo-al-ghozlan/">LinkedIn</a> ·
-  <a href="mailto:abo.al.ghozlan.mohammad@gmail.com">Email</a>
-</p>
+# Mohammad Abo Al Ghozlan
+
+**Backend & Machine Learning Engineer · Full-Stack Developer · Team Lead**
+
+*Building reliable backend systems, AI-powered products, and production software.*
+
+<img src="https://img.shields.io/badge/Location-Lebanon-172554?style=flat-square" alt="Location: Lebanon" />
+<img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-0D9488?style=flat-square" alt="Focus: Backend and AI" />
+<img src="https://img.shields.io/badge/Experience-Production%20Systems-334155?style=flat-square" alt="Production systems experience" />
+
+<br/><br/>
+
+<a href="https://mohammad-ghozlan.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mohammad-abo-al-ghozlan/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:abo.al.ghozlan.mohammad@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 ---
 
@@ -55,6 +65,10 @@ My core stack includes **Laravel, React, Node.js, Python, and MySQL**. I work ac
 
 ## Technical Skills
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,fastapi,react,nextjs,ts,mysql,mongodb,docker,aws&perline=6" alt="Selected technologies: Laravel, PHP, Node.js, Python, FastAPI, React, Next.js, TypeScript, MySQL, MongoDB, Docker, and AWS" />
+</p>
+
 | Area | Technologies & Tools |
 | --- | --- |
 | **Backend** | PHP, Laravel, Node.js, Express, NestJS, Python, FastAPI, Django, Flask, REST APIs, JWT, Laravel Sanctum, RBAC |
@@ -62,6 +76,23 @@ My core stack includes **Laravel, React, Node.js, Python, and MySQL**. I work ac
 | **Frontend** | React, Next.js, Angular, Vue, TypeScript, Tailwind CSS, Bootstrap, Three.js |
 | **Databases & DevOps** | MySQL, MariaDB, MongoDB, Supabase, Docker, Git/GitHub, Nginx, AWS EC2/S3, Postman |
 | **AI-Assisted Development** | Claude Code, GitHub Copilot, Cursor |
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohammad-Abo-Al-Ghozlan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Abo-Al-Ghozlan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most-used languages across public GitHub repositories" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Abo-Al-Ghozlan&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity over time" />
+
+</div>
+
+<sub>These charts are generated from public GitHub activity and repositories; language percentages do not measure professional proficiency. Charts rely on third-party rendering services.</sub>
+
+---
 
 ## Education & Training
 
@@ -78,10 +109,11 @@ Arabic (Native) · English (Fluent) · Spanish (Beginner)
 
 ## Contact
 
-- **Email:** [abo.al.ghozlan.mohammad@gmail.com](mailto:abo.al.ghozlan.mohammad@gmail.com)
-- **Portfolio:** [mohammad-ghozlan.vercel.app](https://mohammad-ghozlan.vercel.app/)
-- **LinkedIn:** [mohammad-abo-al-ghozlan](https://www.linkedin.com/in/mohammad-abo-al-ghozlan/)
-- **Location:** Lebanon
+<div align="center">
+<a href="mailto:abo.al.ghozlan.mohammad@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mohammad-ghozlan.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mohammad-abo-al-ghozlan/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
 
 ---
 
