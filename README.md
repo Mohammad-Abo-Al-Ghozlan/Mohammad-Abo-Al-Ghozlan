@@ -10,7 +10,11 @@
 
 ## 👨‍💻 Full Stack Web & Mobile Developer
 
-Highly motivated and competitive Full Stack Web & Mobile Developer with hands-on experience in **freelance projects** and **real-world business applications**. Passionate about continuous learning, solving modern security challenges, and building **smart, scalable, and secure systems**.  
+Backend-focused Full-Stack Developer and Team Lead delivering production systems across Lebanon, Saudi Arabia, and the UAE. Strong 
+in Laravel, React, Node.js, Python, REST APIs, and MySQL, with hands-on experience building AI-integrated products: LLM-powered 
+platforms, AI agents, ML inference pipelines, and real-time speech-to-sign translation. Comfortable leading developers, owning 
+architecture, and shipping business-critical SaaS, ERP, and POS applications, using modern AI-assisted development tools to accelerate 
+delivery without sacrificing quality.  
 
 🥉 Proven success in competitive environments: 3rd Place in the South Lebanon Kyokushinkai Karate Tournament & Lebanese Muay Thai Championship.
 
